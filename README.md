@@ -23,7 +23,7 @@ instructions that follow are for the Python version only.
 - if you have not sourced the script before, this will source the `setup.sh` script, which will do the following:
     - create the `.game-mode-venv` with python3's venv module
     - activate said venv
-- if you have sourced it before OR once `setup.sh` is finished, it will activate the venv and run main.py with python3
+- if you have sourced it before OR once `setup.sh` is finished, it will activate the venv and run `main.py` with python3
 
 # Playing the Game 
 - a menu will pop up asking what you would like to do 
